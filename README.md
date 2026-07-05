@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D91,100:00D1FF&height=230&section=header&text=Jenil%20Joshi&fontSize=72&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Building%20Autonomous%20Systems&descAlignY=55&descSize=18" alt="Header Banner" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/Jenil05-web/Jenil05-web/main/neural-pulse.svg" alt="Neural Pulse Divider" width="100%"/>
+
 </div>
 
 <div align="center">
