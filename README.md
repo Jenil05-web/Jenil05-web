@@ -108,7 +108,7 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jenil05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9" alt="Jenil's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil05-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=c9d1d9" alt="Top Languages" width="41%" />
+
 </div>
 
 <div align="center">
@@ -120,7 +120,6 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jenil05-web&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00D1FF&height=3&section=header" width="100%"/>
