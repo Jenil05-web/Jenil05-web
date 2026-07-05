@@ -107,7 +107,6 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jenil05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9" alt="Jenil's GitHub Stats" width="48%" />
 
 </div>
 
