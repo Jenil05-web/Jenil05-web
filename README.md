@@ -15,6 +15,22 @@
 [![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-00D1FF?style=for-the-badge)](https://www.linkedin.com/in/jenil-joshi-b07948301/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Jenil05-web&style=for-the-badge&color=00D1FF&label=PROFILE+VIEWS)](https://github.com/Jenil05-web)
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏥_Building-MIRA_(Healthcare_AI)-0B3D91?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎓_CGPA-8.29-0B3D91?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🏆_Certified-DataCamp_AI_Engineer-0B3D91?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📂_Projects-5+_Shipped-0B3D91?style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="28"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00D1FF&height=3&section=header" width="100%"/>
@@ -105,8 +121,8 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jenil05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9" alt="Jenil's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil05-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=c9d1d9" alt="Top Languages" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jenil05-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&cache_seconds=86400" alt="Jenil's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil05-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" width="41%" />
 </div>
 
 <div align="center">
@@ -133,6 +149,7 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 </picture>
 </div>
 
+> 📌 This snake animation needs a one-time GitHub Action to generate the SVG — see `snake.yml` below. Once the Action runs once, the animation appears automatically here.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:000000&height=3&section=header" width="100%"/>
 
