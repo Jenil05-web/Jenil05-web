@@ -133,7 +133,6 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 </picture>
 </div>
 
-> 📌 This snake animation needs a one-time GitHub Action to generate the SVG — see `snake.yml` below. Once the Action runs once, the animation appears automatically here.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:000000&height=3&section=header" width="100%"/>
 
