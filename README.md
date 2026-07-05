@@ -137,7 +137,7 @@ A universal, plug-and-play collection of **MCP (Model Context Protocol)** server
 
 ## 📜 Certifications
 
-- 🏅 **DataCamp — Associate AI Engineer for Developers**: embedding-based retrieval with cosine similarity + GPT-3.5-turbo fallback chatbot.
+- 🏅 **DataCamp — Associate AI Engineer for Developers**
 
 <div align="center">
 
