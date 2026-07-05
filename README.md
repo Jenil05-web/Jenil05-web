@@ -26,7 +26,6 @@
 I'm an **AI Engineer** and **Full-Stack Developer** who builds autonomous, production-grade AI systems — not toy demos. Currently pursuing my **B.Tech in Computer Science & Design** at **A D Patel Institute of Technology** with an **8.29 CGPA**, I spend most of my time at the intersection of agentic orchestration, retrieval-augmented generation, and real-world deployment.
 
 - 🏥 **Building now:** **MIRA** — a multi-agent clinical audit & real-time triage system powered by **LangGraph**, **Supabase/pgvector**, and **Streamlit**.
-- 🧬 **Also in progress:** fine-tuning **Llama/Qwen** models with **TRL + SFTTrainer** for a personalized customer-support agent.
 - 🧠 **Core focus:** self-optimizing RAG pipelines, multi-agent workflows, and taking AI systems from notebook → production.
 - 🏆 **Certified:** DataCamp **Associate AI Engineer for Developers**.
 - 💬 **Ask me about:** LangGraph orchestration, RAG evaluation (Ragas), vector databases, or debugging Windows-vs-AI-stack nightmares.
