@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D1FF&height=200&section=header&text=Jenil%20Joshi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
-</div> <h1 align="center">Hi there, I'm Jenil Joshi! 👋</h1> <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Gen+AI+Enthusiast;Full+Stack+Developer+(MERN );Agentic+Engineering+Expert;CSE+Student+%40+ADIT" alt="Typing SVG" />
-  </a>
+</div> <h1 align="center">Hi there, I\'m Jenil Joshi! 👋</h1> <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Gen+AI+Enthusiast;Full+Stack+Developer+(MERN );Agentic+Engineering+Expert;CSE+Student+%40+ADIT" alt="Typing SVG" />
 </p> <p align="center">
   <a href="https://www.linkedin.com/in/jenil-joshi-b07948301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Jenil05-web"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -26,14 +24,14 @@ I am a passionate **AI Engineer** and **Full Stack Developer** specializing in b
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,tailwind&theme=dark" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,tailwind,git,github,vscode&theme=dark" alt="Languages & Frameworks" />
     
   
 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Ragas-4CAF50?style=for-the-badge&logo=r&logoColor=white" alt="Ragas" />
 </div>
 
 ---
@@ -53,7 +51,7 @@ I am a passionate **AI Engineer** and **Full Stack Developer** specializing in b
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jenil05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Jenil's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jenil05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Jenil\'s GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil05-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>   
  <div align="center">
