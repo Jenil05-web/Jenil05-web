@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D1FF&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Agentic+AI+%26+Multi-Agent+Systems+Engineer;%F0%9F%A7%A0+LangGraph+%7C+RAG+%7C+LLM+Fine-Tuning;%F0%9F%8F%A5+Building+MIRA+%E2%80%94+Healthcare+AI+at+Scale;%F0%9F%92%BB+Full-Stack+Developer+(MERN);%F0%9F%8E%93+CSE+%26+Design+%40+ADIT+%7C+8.29+CGPA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D1FF&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Agentic+AI+%26+Multi-Agent+Systems+Engineer;%F0%9F%A7%A0+LangGraph+%7C+RAG+%7C+LLM+Fine-Tuning;%F0%9F%8F%A5+Building+AI+%E2%80%94Engineer;%F0%9F%92%BB+Full-Stack+Developer+(MERN);%F0%9F%8E%93+CSE+%26+Design+%40+ADIT+%7C+8.29+CGPA" alt="Typing SVG" />
 
 <br/>
 
