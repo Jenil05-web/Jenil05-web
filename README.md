@@ -68,6 +68,13 @@ I'm an **AI Engineer** and **Full-Stack Developer** who builds autonomous, produ
 
 ## 🌟 Featured Projects
 
+### 🤖 [AI-Ops — Autonomous Support Triage & Intelligence System](https://github.com/Jenil05-web/AI-Ops)
+A production-grade support intelligence system that uses classical ML for routing, RAG for grounding, and a **LangGraph** decision layer to autonomously resolve, draft, or escalate tickets based on confidence scores.
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi" /> <img src="https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost" /> <img src="https://img.shields.io/badge/FAISS-black?style=flat-square&logo=meta" /> <img src="https://img.shields.io/github/stars/Jenil05-web/AI-Ops?style=flat-square&color=00D1FF" /> <img src="https://img.shields.io/github/last-commit/Jenil05-web/AI-Ops?style=flat-square&color=00D1FF" />
+
+---
+
 ### 🏥 [MIRA — Multi-Agent Clinical Audit & Real-Time Triage System](https://github.com/Jenil05-web/Mira_)
 Production-grade healthcare AI that breaks down hospital data silos — combining live patient records with a **LangGraph** multi-agent pipeline for real-time triage and automated clinical audit reporting, backed by **Supabase/pgvector**.
 
@@ -93,13 +100,6 @@ Turns any PDF into a full interactive classroom — built on **LangGraph** for a
 A personal research agent that answers questions over uploaded PDFs while pulling live context from Wikipedia and arXiv, orchestrated with **LangChain** and **LangGraph**.
 
 <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/github/stars/Jenil05-web/Clara--Research_Agent?style=flat-square&color=00D1FF" /> <img src="https://img.shields.io/github/last-commit/Jenil05-web/Clara--Research_Agent?style=flat-square&color=00D1FF" />
-
----
-
-### 🧰 [TechScout — MCP Toolbox for AI Agents](https://github.com/Jenil05-web/MCP-Servers)
-A universal, plug-and-play collection of **MCP (Model Context Protocol)** servers that give any AI agent a standardized toolbox to work with.
-
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/MCP-black?style=flat-square&logo=anthropic" /> <img src="https://img.shields.io/github/stars/Jenil05-web/MCP-Servers?style=flat-square&color=00D1FF" /> <img src="https://img.shields.io/github/last-commit/Jenil05-web/MCP-Servers?style=flat-square&color=00D1FF" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:000000&height=3&section=header" width="100%"/>
 
