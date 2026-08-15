@@ -75,6 +75,13 @@ A production-grade support intelligence system that uses classical ML for routin
 
 ---
 
+### 🚨 [Genesis — Disaster Response & Recovery Orchestrator](https://github.com/Jenil05-web/Genesis)
+A disaster-response orchestration system built with **LangGraph**, coordinating five specialized agents through a stateful graph with conditional retry logic and human-in-the-loop approval gates. Its production RAG pipeline ingests **1,900+ real chunks** from FEMA and NDMA emergency-management manuals into **ChromaDB**, while live integrations bring together GPT-4o-mini vision, satellite imagery, Open-Meteo, and OpenStreetMap geocoding, routing, and POI search through a containerized **FastAPI** backend and **Streamlit** frontend.
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/badge/ChromaDB-black?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi" /> <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit" /> <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" /> <img src="https://img.shields.io/github/stars/Jenil05-web/Genesis?style=flat-square&color=00D1FF" /> <img src="https://img.shields.io/github/last-commit/Jenil05-web/Genesis?style=flat-square&color=00D1FF" />
+
+---
+
 ### 🏥 [MIRA — Multi-Agent Clinical Audit & Real-Time Triage System](https://github.com/Jenil05-web/Mira_)
 Production-grade healthcare AI that breaks down hospital data silos — combining live patient records with a **LangGraph** multi-agent pipeline for real-time triage and automated clinical audit reporting, backed by **Supabase/pgvector**.
 
@@ -86,13 +93,6 @@ Production-grade healthcare AI that breaks down hospital data silos — combinin
 A self-optimizing RAG engine that runs a continuous feedback loop: **Ragas** metrics evaluate retrieval quality, and the system autonomously re-tunes chunk size, top-k, and prompt variants. Ships with FAISS index caching, parallelized evaluation via `ThreadPoolExecutor`, and full **LangSmith** observability — wrapped in a cyberpunk-themed Streamlit UI.
 
 <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/badge/Ragas-black?style=flat-square&logo=r" /> <img src="https://img.shields.io/badge/FAISS-black?style=flat-square&logo=meta" /> <img src="https://img.shields.io/badge/LangSmith-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/github/stars/Jenil05-web/Astra_?style=flat-square&color=00D1FF" /> <img src="https://img.shields.io/github/last-commit/Jenil05-web/Astra_?style=flat-square&color=00D1FF" />
-
----
-
-### 📚 [Lyra — Agentic Study Assistant](https://github.com/Jenil05-web/Lyra-Smart-Learning_Agentic)
-Turns any PDF into a full interactive classroom — built on **LangGraph** for agent orchestration and **Streamlit** for the learning interface.
-
-<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langchain" /> <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit" /> <img src="https://img.shields.io/github/stars/Jenil05-web/Lyra-Smart-Learning_Agentic?style=flat-square&color=00D1FF" /> <img src="https://img.shields.io/github/last-commit/Jenil05-web/Lyra-Smart-Learning_Agentic?style=flat-square&color=00D1FF" />
 
 ---
 
